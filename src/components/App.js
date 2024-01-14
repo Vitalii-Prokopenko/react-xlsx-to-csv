@@ -12,7 +12,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React template
+      React app template
     </div>
   );
 };
