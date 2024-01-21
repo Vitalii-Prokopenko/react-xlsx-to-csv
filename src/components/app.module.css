@@ -1,0 +1,8 @@
+.title {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 40px;
+  color: crimson;
+}
