@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-xlsx-to-csv/static/css/main.c1cad30a.css",
-    "main.js": "/react-xlsx-to-csv/static/js/main.fe093e8f.js",
+    "main.css": "/react-xlsx-to-csv/static/css/main.3cc5cc7c.css",
+    "main.js": "/react-xlsx-to-csv/static/js/main.ca348d4f.js",
     "index.html": "/react-xlsx-to-csv/index.html",
-    "main.c1cad30a.css.map": "/react-xlsx-to-csv/static/css/main.c1cad30a.css.map",
-    "main.fe093e8f.js.map": "/react-xlsx-to-csv/static/js/main.fe093e8f.js.map"
+    "main.3cc5cc7c.css.map": "/react-xlsx-to-csv/static/css/main.3cc5cc7c.css.map",
+    "main.ca348d4f.js.map": "/react-xlsx-to-csv/static/js/main.ca348d4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1cad30a.css",
-    "static/js/main.fe093e8f.js"
+    "static/css/main.3cc5cc7c.css",
+    "static/js/main.ca348d4f.js"
   ]
 }
