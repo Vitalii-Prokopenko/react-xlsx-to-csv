@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import * as XLSX from 'xlsx';
-import CsvDownloadButton from 'react-json-to-csv';
+// import CsvDownloadButton from 'react-json-to-csv';
 import { nanoid } from 'nanoid';
 import DownloadBudgets from './downloadBudgets/DownloadBudgets';
-import refs from '../js/refs';
+// import refs from '../js/refs';
 import css from './app.module.css';
 import extractListOfMonthHeaders from 'js/extractListOfMonthHeaders';
 import extractListOfDepartments from 'js/extractListOfDepartments';
@@ -41,7 +41,7 @@ const App = () => {
         let budgets = [];
 
         departmentHeaders.forEach(department => {
-          let departmentBudgets = [];
+          // let departmentBudgets = [];
           monthHeaders.forEach((month, index) => {
             const monthLetters = month.split('');
             let monthHeaderNumber = '';
